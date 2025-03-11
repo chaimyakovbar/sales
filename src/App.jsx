@@ -1,6 +1,6 @@
 import React from "react"
 
-import Index from "./homePage"
+import Index from "./homePage/Index"
 import About from "./pages/About"
 import Contact from "./pages/Contact"
 import PolicySupport from "./pages/PolicySupport"
